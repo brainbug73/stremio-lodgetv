@@ -1,0 +1,23 @@
+{
+  "style": {
+    "title": "Display Style",
+    "type": "select",
+    "options": ["Catalogs", "Channels"],
+    "default": "Catalogs"
+  },
+  "show_0": {
+    "title": "English Channels",
+    "type": "boolean",
+    "default": true
+  },
+  "show_1": {
+    "title": "Spanish Channels",
+    "type": "boolean",
+    "default": true
+  },
+  "show_2": {
+    "title": "Arabic Channels",
+    "type": "boolean",
+    "default": true
+  }
+}
